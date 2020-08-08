@@ -1,0 +1,18 @@
+{
+  "name": "WP-Funnel-Hackers/private-wordpress-theme",
+  "description": "private-wordpress-theme",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/WP-Funnel-Hackers/private-wordpress-theme/",
+  "license": "",
+  "authors": [
+    {
+      "name": "WP Funnel Hackers",
+      "email": "hello@wpfunnelhackers.com",
+      "homepage": "https://wpfunnelhackers.com"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">=5.6"
+  }
+}
