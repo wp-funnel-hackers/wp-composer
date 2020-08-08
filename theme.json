@@ -1,8 +1,8 @@
 {
-  "name": "WP-Funnel-Hackers/private-wordpress-theme",
+  "name": "wp-funnel-hackers/private-wordpress-theme",
   "description": "private-wordpress-theme",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://github.com/WP-Funnel-Hackers/private-wordpress-theme/",
+  "homepage": "https://github.com/wp-funnel-hackers/private-wordpress-theme/",
   "license": "",
   "authors": [
     {
