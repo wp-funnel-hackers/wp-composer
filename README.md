@@ -1,8 +1,9 @@
 # wp-composer
 Examples for installing plugins and themes with, composer on WordPress.
 
-`plugin.json` Needs to be added to the private plugin directory
-`theme.json` Needs to be added to the private theme directory
+`plugin.json` Needs to be added to the private plugin directory.
+
+`theme.json` Needs to be added to the private theme directory.
 
 The below needs to be added to the WordPress main `composer.json` file.
 
