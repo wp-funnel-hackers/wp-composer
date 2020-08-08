@@ -11,7 +11,7 @@ For each new plugin or theme added, you will need to add a new `vsc` repository.
 ```
     {
       "type": "vcs",
-      "url": "https://github.com/WP-Funnel-Hackers/new-private-wordpress-plugin.git"
+      "url": "https://github.com/wp-funnel-hackers/new-private-wordpress-plugin.git"
     },
 ```
 
@@ -24,15 +24,15 @@ For each new plugin or theme added, you will need to add a new `vsc` repository.
     },
     {
       "type": "vcs",
-      "url": "https://github.com/WP-Funnel-Hackers/private-wordpress-plugin-1.git"
+      "url": "https://github.com/wp-funnel-hackers/private-wordpress-plugin-1.git"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/WP-Funnel-Hackers/private-wordpress-plugin-2.git"
+      "url": "https://github.com/wp-funnel-hackers/private-wordpress-plugin-2.git"
     }
 ```
 Then to install run
 
 ```
-composer require WP-Funnel-Hackers/private-wordress-plugin
+composer require wp-funnel-hackers/private-wordress-plugin
 ```
